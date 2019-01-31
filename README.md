@@ -15,11 +15,11 @@ Google Cloud Datastore 提供免費配額，讓您不需要一開始就支付費
 
 ```
             每日免費額度	           超過免費額度後的價格 (每單位)	    價格單位
-儲存的資料	   1 GB 儲存空間	        $0.207	               GB/月
+儲存的資料	   1 GB 空間	                      $0.207	                GB/月
 實體讀取數	   50,000 次	                       $0.069	                 每 100,000 個實體
 實體寫入數	   20,000 次	                       $0.207	                 每 100,000 個實體
 實體刪除數	   20,000 次	                       $0.029	                 每 100,000 個實體
-小型作業	        50,000 次	            Free
+小型作業	    50,000 次	            Free
 ```
 
 # 參考文獻：
@@ -29,3 +29,6 @@ https://cloud.google.com/datastore/docs/quickstart?hl=zh-tw
 
 ## 設定金鑰
 ## Cloud Datastore Client Libraries 頁面顯示瞭如何開始使用Google Cloud Datastore API的Cloud Client Libraries。https://cloud.google.com/datastore/docs/reference/libraries?hl=zh-tw
+
+## 費用
+https://cloud.google.com/datastore/pricing?hl=zh-tw
