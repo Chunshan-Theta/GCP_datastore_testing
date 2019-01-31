@@ -6,5 +6,4 @@ https://cloud.google.com/datastore/docs/quickstart?hl=zh-tw
 
 
 # 設定金鑰
-## Cloud Datastore Client Libraries
-https://cloud.google.com/datastore/docs/reference/libraries?hl=zh-tw
+## Cloud Datastore Client Libraries 頁面顯示瞭如何開始使用Google Cloud Datastore API的Cloud Client Libraries。https://cloud.google.com/datastore/docs/reference/libraries?hl=zh-tw
